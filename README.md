@@ -1,6 +1,3 @@
-### Hi there 👋
-
-This is an attempt to make an official website of Saksham, an NGO which is working hard for the upliftment of underpriviledge 
-children through education.
-
+# SakshamProject
+Devloping the website for Saksham, an NGO working for upliftment of underpriviledge children
 
