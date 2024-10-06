@@ -1,3 +1,3 @@
-# SakshamProject
-Devloping the website for Saksham, an NGO working for upliftment of underpriviledge children
+# Saksham Project
+Website showcasing in brief Saksham's vision and contributions to upliftment of underpriviledge children through education
 
